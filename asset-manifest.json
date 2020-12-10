@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//georgechristopherlopez.github.io/monster-rolodex/static/css/main.b58e6408.chunk.css",
+    "main.js": "//georgechristopherlopez.github.io/monster-rolodex/static/js/main.027a6cb2.chunk.js",
+    "main.js.map": "//georgechristopherlopez.github.io/monster-rolodex/static/js/main.027a6cb2.chunk.js.map",
+    "runtime-main.js": "//georgechristopherlopez.github.io/monster-rolodex/static/js/runtime-main.60f4a08c.js",
+    "runtime-main.js.map": "//georgechristopherlopez.github.io/monster-rolodex/static/js/runtime-main.60f4a08c.js.map",
+    "static/js/2.ac8ce4c8.chunk.js": "//georgechristopherlopez.github.io/monster-rolodex/static/js/2.ac8ce4c8.chunk.js",
+    "static/js/2.ac8ce4c8.chunk.js.map": "//georgechristopherlopez.github.io/monster-rolodex/static/js/2.ac8ce4c8.chunk.js.map",
+    "static/js/3.d574bb40.chunk.js": "//georgechristopherlopez.github.io/monster-rolodex/static/js/3.d574bb40.chunk.js",
+    "static/js/3.d574bb40.chunk.js.map": "//georgechristopherlopez.github.io/monster-rolodex/static/js/3.d574bb40.chunk.js.map",
+    "index.html": "//georgechristopherlopez.github.io/monster-rolodex/index.html",
+    "static/css/main.b58e6408.chunk.css.map": "//georgechristopherlopez.github.io/monster-rolodex/static/css/main.b58e6408.chunk.css.map",
+    "static/js/2.ac8ce4c8.chunk.js.LICENSE.txt": "//georgechristopherlopez.github.io/monster-rolodex/static/js/2.ac8ce4c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60f4a08c.js",
+    "static/js/2.ac8ce4c8.chunk.js",
+    "static/css/main.b58e6408.chunk.css",
+    "static/js/main.027a6cb2.chunk.js"
+  ]
+}
